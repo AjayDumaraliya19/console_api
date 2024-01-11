@@ -1,0 +1,7 @@
+{
+    "logConfig": {
+        "logFolder": "logs/",
+        "logFile": "error-%DATE%.log",
+        "logLevel": "info"
+    }
+}

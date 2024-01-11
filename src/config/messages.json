@@ -1,0 +1,29 @@
+{
+    "VALIDATION": {
+        "USERNAME":"Username is Required",
+        "USER_ID":"User id is Required",
+        "PASSWORD":"Password is Required",
+        "GAMECODE":"Game Code is Required",
+        "CARDCODE":"Card Code is Required",
+        "INVALID_CARDCODE":"Card Code is Invalid",
+        "INVALID_USERNAME":"Invalid Username!",
+        "INVALID_PASSWORD":"'Invalid Password!'",
+        "INVALID_GAME_CODE_AND_PASSWORD": "Invalid Gamecode and Password!",
+        "INVALID_GAME":"Invalid Game",
+        "INVALID_CARD_SCAN":"Invalid scan card. Please try again",
+        "INVALID_GAMECODE":"Invalid Game Code!",
+        "ROUND_NOT_EXIST":"Please wait for 25 sec",
+        "DUPLICATE_CARD_SCAN":"Duplicate Card Scan",
+        "RUNNER_NOT_FOUND":"Runner Not Found",
+        "SOMETHING_WRONG":"Something Went Wrong! Please try again",
+        "GAME_NOT_ACTIVE":"This game is not active",
+        "WORK_IN_PROGRESS":"One scan card operation is still running",
+        "ALL_CARD_OPEN_THIS_ROUND":"All card opened in the current round"
+    },
+    "SUCCESS":{
+        "LOGIN_SUCCESS":"Login Successfully!",
+        "CARD_SCAN_SUCCESS":"Card Scan Successfully",
+        "ROUND_CREATE_SUCCESS":"Round Created Successfully",
+        "ROUND_CANCEL_SUCCESS":"Round Cancelled Successfully"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "ROUND": {
+        "DEFAULT_ROUND_STATUS":1,
+        "WINNER_STATUS":3,
+        "IS_SETTLED":0,
+        "CREATED_BY":1,
+        "MODIFIED_BY":1,
+        "IS_ACTIVE":1,
+        "IS_DELETE":0,
+        "SUSPENDED_ROUND_STATUS":4,
+        "SUSPENDED_RUNNER_STATUS":3,
+        "CANCEL_ROUND_STATUS":5,
+        "CLOSED_ROUND_STATUS":2
+    },
+    "ROUND_DETAILS": {
+        "DEFAULT_ROUND_DETAILS_STATUS":1,
+        "CREATED_BY":1,
+        "IS_ACTIVE":1
+    },
+    "TEEN_PATTI": {
+        "PLAYER_A":{
+            "BackOdd":1.98,
+            "LayOdd":2.05
+        },
+        "PLAYER_B":{
+            "BackOdd":1.98,
+            "LayOdd":2.05
+        }
+    },
+    "DRAGON_TIGER": {
+        "DRAGON":{
+            "BackOdd":1.97,
+            "LayOdd":0.00
+        },
+        "TIGER":{
+            "BackOdd":1.97,
+            "LayOdd":0.00
+        },
+        "TIE":{
+            "BackOdd":10.00,
+            "LayOdd":0.00
+        }
+    },
+    "TEEN_PATTI_TWENTY_TWENTY": {
+        "PLAYER_A":{
+            "BackOdd":1.98,
+            "LayOdd":2.05
+        },
+        "PLAYER_B":{
+            "BackOdd":1.98,
+            "LayOdd":2.05
+        }
+    },
+    "ANDAR_BAHAR": {
+        "ANDAR_BACK_ODD":1.98,
+        "BAHAR_BACK_ODD":1.98,
+        "SEVEN_UP_BACK_ODD":1.98,
+        "SEVEN_DOWN_BACK_ODD":1.98,
+        "SEVEN_BACK_ODD":10.02,
+        "DEFAULT_ODD":10.02
+    },
+    "THURTY_TWO_CARD": {
+        "NO_OF_PLAYERS":3,
+        "DEFAULT_ODDS":1.97,
+        "SCORE":{
+            "PLAYER_A":8,
+            "PLAYER_B":9,
+            "PLAYER_C":10,
+            "PLAYER_D":11
+        },
+        "ODDS":{
+            "PLAYER_A":12.20,
+            "PLAYER_B":5.95,
+            "PLAYER_C":3.20,
+            "PLAYER_D":2.08
+        }
+    },
+    "ROUND_CREATE_HUB_STATUS":"RoundCreate",
+    "ROUND_UPDATE_HUB_STATUS":"RoundUpdate",
+    "ROUND_CANCEL_HUB_STATUS":"RoundCancel",
+    "ROUND_CARD_SCAN_HUB_STATUS":"CardScan",
+    "ROUND_RESULT_HUB_STATUS":"RoundResult",
+    "DELAY_URL":"http://localhost:3000",
+    "PYTHON_API_URL":"https://winodds.playforgift.com/",
+    "ROUND_CREATE_POUSE_TIME":5,
+    "ATEMMINI_SWITCH_CAMERA_API": ""
+}
